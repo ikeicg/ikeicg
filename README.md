@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ike Chukwuemeka
-- 👀 I’m interested in Web Development and Security
+- 👀 I’m interested in Software Development
 - 📫 How to reach me ikechukwuemeka60@gmail.com
 
 <!---
