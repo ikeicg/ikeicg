@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Ike Chukwuemeka
-- 👀 I’m interested in Software Development
-- 📫 How to reach me ikechukwuemeka60@gmail.com
+# Hi, I'm Ike Chukwuemeka 👋
 
-<!---
-ikeicg/ikeicg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a computer science student with a strong interest in software development, especially backend systems. I enjoy building things that work with real data and getting them from an idea to something that runs.
+
+📫 Reach me at ikechukwuemeka60@gmail.com
