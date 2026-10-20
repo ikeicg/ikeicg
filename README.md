@@ -1,5 +1,7 @@
-# Hi, I'm Ike Chukwuemeka 👋
+# Hi, I'm Chukwuemeka 👋
 
-I'm a computer science student with a strong interest in software development, especially backend systems. I enjoy building things that work with real data and getting them from an idea to something that runs.
+I'm a Master of Engineering student in Software Engineering at Concordia University in Montreal. I mostly build backend systems in Java and Spring Boot, and I enjoy working with real, live data.
 
-📫 Reach me at ikechukwuemeka60@gmail.com
+- 🛠️ Java · Spring Boot · PostgreSQL · Redis · Angular · React · Node.js · Python · Docker
+- 🌱 Currently learning more about networking and distributed systems
+- 📫 ikechukwuemeka60@gmail.com · [LinkedIn](https://www.linkedin.com/in/ikeicg/)
