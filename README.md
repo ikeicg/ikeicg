@@ -4,4 +4,4 @@ I'm a Master of Engineering student in Software Engineering at Concordia Univers
 
 - 🛠️ Java · Spring Boot · PostgreSQL · Redis · Angular · React · Node.js · Python · Docker
 - 🌱 Currently learning more about networking and distributed systems
-- 📫 ikechukwuemeka60@gmail.com · [LinkedIn](https://www.linkedin.com/in/ikeicg/)
+- 📫 ikechukwuemeka60@gmail.com
